@@ -540,6 +540,6 @@ export const init_carousel = {
           },
         },
       });
-    }, 50);
+    }, 51);
   },
 };
